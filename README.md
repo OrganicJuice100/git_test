@@ -1,0 +1,1 @@
+This is OrganicJuice's first git project!
